@@ -27,10 +27,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"player",
-    "path":"sprites/player/player.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

@@ -44,7 +44,6 @@
     {"id":{"name":"seq_game_hud","path":"sequences/seq_game_hud/seq_game_hud.yy",},},
     {"id":{"name":"hud_timer_background","path":"sprites/hud_timer_background/hud_timer_background.yy",},},
     {"id":{"name":"hud_timer_icon","path":"sprites/hud_timer_icon/hud_timer_icon.yy",},},
-    {"id":{"name":"player","path":"sprites/player/player.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",

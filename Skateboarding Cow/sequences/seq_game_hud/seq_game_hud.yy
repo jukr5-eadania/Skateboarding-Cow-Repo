@@ -16,7 +16,7 @@
   },
   "eventStubScript":null,
   "eventToFunction":{},
-  "length":60.0,
+  "length":120.0,
   "lockOrigin":false,
   "moments":{
     "$KeyframeStore<MomentsEventKeyframe>":"",
@@ -29,7 +29,7 @@
     "name":"Sequences",
     "path":"folders/Sequences.yy",
   },
-  "playback":0,
+  "playback":1,
   "playbackSpeed":60.0,
   "playbackSpeedType":0,
   "resourceType":"GMSequence",
@@ -42,7 +42,7 @@
     {"$GMGraphicTrack":"","%Name":"timer_icon","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<AssetSpriteKeyframe>":"","Keyframes":[
           {"$Keyframe<AssetSpriteKeyframe>":"","Channels":{
               "0":{"$AssetSpriteKeyframe":"","Id":{"name":"hud_timer_icon","path":"sprites/hud_timer_icon/hud_timer_icon.yy",},"resourceType":"AssetSpriteKeyframe","resourceVersion":"2.0",},
-            },"Disabled":false,"id":"0724c089-ce26-42b8-9da4-0882591d04b5","IsCreationKey":false,"Key":0.0,"Length":60.0,"resourceType":"Keyframe<AssetSpriteKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            },"Disabled":false,"id":"0724c089-ce26-42b8-9da4-0882591d04b5","IsCreationKey":false,"Key":0.0,"Length":120.0,"resourceType":"Keyframe<AssetSpriteKeyframe>","resourceVersion":"2.0","Stretch":false,},
         ],"resourceType":"KeyframeStore<AssetSpriteKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"timer_icon","resourceType":"GMGraphicTrack","resourceVersion":"2.0","trackColour":4282970730,"tracks":[
         {"$GMRealTrack":"","%Name":"origin","builtinName":16,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":true,"keyframes":{"$KeyframeStore<RealKeyframe>":"","Keyframes":[
               {"$Keyframe<RealKeyframe>":"","Channels":{
@@ -71,7 +71,7 @@
     {"$GMGraphicTrack":"","%Name":"hud_timer_background","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<AssetSpriteKeyframe>":"","Keyframes":[
           {"$Keyframe<AssetSpriteKeyframe>":"","Channels":{
               "0":{"$AssetSpriteKeyframe":"","Id":{"name":"hud_timer_background","path":"sprites/hud_timer_background/hud_timer_background.yy",},"resourceType":"AssetSpriteKeyframe","resourceVersion":"2.0",},
-            },"Disabled":false,"id":"97177308-63d6-4ba5-807d-ee5d0d6f1977","IsCreationKey":false,"Key":0.0,"Length":60.0,"resourceType":"Keyframe<AssetSpriteKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            },"Disabled":false,"id":"97177308-63d6-4ba5-807d-ee5d0d6f1977","IsCreationKey":false,"Key":0.0,"Length":120.0,"resourceType":"Keyframe<AssetSpriteKeyframe>","resourceVersion":"2.0","Stretch":false,},
         ],"resourceType":"KeyframeStore<AssetSpriteKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"hud_timer_background","resourceType":"GMGraphicTrack","resourceVersion":"2.0","trackColour":4294068312,"tracks":[
         {"$GMRealTrack":"","%Name":"origin","builtinName":16,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":true,"keyframes":{"$KeyframeStore<RealKeyframe>":"","Keyframes":[
               {"$Keyframe<RealKeyframe>":"","Channels":{
