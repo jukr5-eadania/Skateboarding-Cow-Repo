@@ -14,3 +14,10 @@ event_inherited();
 /// @DnDArgument : "var_1" "move_speed_player"
 move_speed_mult = 50;
 move_speed_player = move_speed+move_speed_mult/100;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 61A64542
+/// @DnDArgument : "expr" "true"
+/// @DnDArgument : "var" "grounded"
+grounded = true;
