@@ -1,11 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"GameManager",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_player",
+  "eventList":[],
   "managed":true,
-  "name":"GameManager",
+  "name":"obj_player",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -29,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"player",
+    "path":"sprites/player/player.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
