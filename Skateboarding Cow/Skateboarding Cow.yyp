@@ -35,6 +35,7 @@
   "name":"Skateboarding Cow",
   "resources":[
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"Test_Sprite","path":"sprites/Test_Sprite/Test_Sprite.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
