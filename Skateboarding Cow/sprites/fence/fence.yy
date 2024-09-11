@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"Tiles and obstacles",
-    "path":"folders/Tile Sets/Tiles and obstacles.yy",
+    "name":"Obstacles",
+    "path":"folders/Tile Sets/Obstacles.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
