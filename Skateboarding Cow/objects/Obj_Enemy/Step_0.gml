@@ -1,3 +1,8 @@
+/// @DnDAction : YoYo Games.Instances.Inherit_Event
+/// @DnDVersion : 1
+/// @DnDHash : 480EAEA0
+event_inherited();
+
 /// @DnDAction : YoYo Games.Collisions.If_Collision_Shape
 /// @DnDVersion : 1.1
 /// @DnDHash : 0F417230
@@ -16,8 +21,7 @@ var l0F417230_0 = collision_ellipse(x + -500, y + -500, x + 500, y + 500, Obj_NE
 	/// @DnDVersion : 1
 	/// @DnDHash : 5B7635A9
 	/// @DnDParent : 0F417230
-	/// @DnDArgument : "speed" "move_speed"
-	speed = move_speed;
+	speed = 0;
 
 	/// @DnDAction : YoYo Games.Movement.Set_Direction_Point
 	/// @DnDVersion : 1
