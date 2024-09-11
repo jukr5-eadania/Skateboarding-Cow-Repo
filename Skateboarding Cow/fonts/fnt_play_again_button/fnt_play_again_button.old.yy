@@ -1,6 +1,6 @@
 {
   "$GMFont":"",
-  "%Name":"fnt_timer",
+  "%Name":"fnt_play_again_button",
   "AntiAlias":1,
   "applyKerning":0,
   "ascender":44,
@@ -117,7 +117,7 @@
   "last":0,
   "lineHeight":56,
   "maintainGms1Font":false,
-  "name":"fnt_timer",
+  "name":"fnt_play_again_button",
   "parent":{
     "name":"Fonts",
     "path":"folders/Fonts.yy",
