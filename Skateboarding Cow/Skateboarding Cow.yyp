@@ -50,6 +50,7 @@
     {"id":{"name":"Obj_Enemy","path":"objects/Obj_Enemy/Obj_Enemy.yy",},},
     {"id":{"name":"obj_hud_timer_background","path":"objects/obj_hud_timer_background/obj_hud_timer_background.yy",},},
     {"id":{"name":"obj_hud_timer_icon","path":"objects/obj_hud_timer_icon/obj_hud_timer_icon.yy",},},
+    {"id":{"name":"Obj_NEW_Player_NOTCURSED","path":"objects/Obj_NEW_Player_NOTCURSED/Obj_NEW_Player_NOTCURSED.yy",},},
     {"id":{"name":"obj_play_again_button","path":"objects/obj_play_again_button/obj_play_again_button.yy",},},
     {"id":{"name":"obj_timer","path":"objects/obj_timer/obj_timer.yy",},},
     {"id":{"name":"seq_game_hud","path":"sequences/seq_game_hud/seq_game_hud.yy",},},
