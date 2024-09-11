@@ -51,6 +51,7 @@
     {"id":{"name":"","path":"objects/.yy",},},
     {"id":{"name":"GameManager","path":"objects/GameManager/GameManager.yy",},},
     {"id":{"name":"Obj_Character","path":"objects/Obj_Character/Obj_Character.yy",},},
+    {"id":{"name":"obj_enemy_manager","path":"objects/obj_enemy_manager/obj_enemy_manager.yy",},},
     {"id":{"name":"Obj_Enemy","path":"objects/Obj_Enemy/Obj_Enemy.yy",},},
     {"id":{"name":"obj_hud_timer_background","path":"objects/obj_hud_timer_background/obj_hud_timer_background.yy",},},
     {"id":{"name":"obj_hud_timer_icon","path":"objects/obj_hud_timer_icon/obj_hud_timer_icon.yy",},},

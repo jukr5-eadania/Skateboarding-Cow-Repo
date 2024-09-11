@@ -1,9 +1,9 @@
 /// @DnDAction : YoYo Games.Common.If_Expression
 /// @DnDVersion : 1
 /// @DnDHash : 68F9142C
-/// @DnDArgument : "expr" "obj_player"
+/// @DnDArgument : "expr" "Obj_NEW_Player_NOTCURSED"
 /// @DnDArgument : "not" "1"
-if(!(obj_player)){	/// @DnDAction : YoYo Games.Common.Exit_Event
+if(!(Obj_NEW_Player_NOTCURSED)){	/// @DnDAction : YoYo Games.Common.Exit_Event
 	/// @DnDVersion : 1
 	/// @DnDHash : 2F6BCBCA
 	/// @DnDParent : 68F9142C
