@@ -9,9 +9,10 @@
 /// @DnDArgument : "x2_relative" "1"
 /// @DnDArgument : "y2" "500"
 /// @DnDArgument : "y2_relative" "1"
-/// @DnDArgument : "obj" "Obj_Player"
+/// @DnDArgument : "obj" "Obj_Character"
 /// @DnDArgument : "shape" "2"
-var l0F417230_0 = collision_ellipse(x + -500, y + -500, x + 500, y + 500, Obj_Player, true, 1);if((l0F417230_0)){	/// @DnDAction : YoYo Games.Movement.Set_Speed
+/// @DnDSaveInfo : "obj" "Obj_Character"
+var l0F417230_0 = collision_ellipse(x + -500, y + -500, x + 500, y + 500, Obj_Character, true, 1);if((l0F417230_0)){	/// @DnDAction : YoYo Games.Movement.Set_Speed
 	/// @DnDVersion : 1
 	/// @DnDHash : 5B7635A9
 	/// @DnDParent : 0F417230
