@@ -7,9 +7,9 @@ if(grounded == true){	/// @DnDAction : YoYo Games.Instances.Set_Sprite
 	/// @DnDVersion : 1
 	/// @DnDHash : 1485E9A8
 	/// @DnDParent : 0C00ABE5
-	/// @DnDArgument : "spriteind" "Test_Sprite_Player_Jump"
-	/// @DnDSaveInfo : "spriteind" "Test_Sprite_Player_Jump"
-	sprite_index = Test_Sprite_Player_Jump;
+	/// @DnDArgument : "spriteind" "Player_kickflip"
+	/// @DnDSaveInfo : "spriteind" "Player_kickflip"
+	sprite_index = Player_kickflip;
 	image_index = 0;
 
 	/// @DnDAction : YoYo Games.Common.Variable

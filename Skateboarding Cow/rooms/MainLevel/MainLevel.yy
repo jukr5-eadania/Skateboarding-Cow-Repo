@@ -7,13 +7,15 @@
   "inheritLayers":false,
   "instanceCreationOrder":[
     {"name":"inst_6F928239","path":"rooms/MainLevel/MainLevel.yy",},
-    {"name":"inst_1F53BFEF","path":"rooms/MainLevel/MainLevel.yy",},
+    {"name":"inst_5C92C09C","path":"rooms/MainLevel/MainLevel.yy",},
+    {"name":"inst_5B9E3729","path":"rooms/MainLevel/MainLevel.yy",},
   ],
   "isDnd":false,
   "layers":[
     {"$GMRInstanceLayer":"","%Name":"Instances","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v1","%Name":"inst_6F928239","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6F928239","objectId":{"name":"Obj_NEW_Player_NOTCURSED","path":"objects/Obj_NEW_Player_NOTCURSED/Obj_NEW_Player_NOTCURSED.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":320.0,"y":480.0,},
-        {"$GMRInstance":"v1","%Name":"inst_1F53BFEF","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_1F53BFEF","objectId":{"name":"Obj_collectible","path":"objects/Obj_collectible/Obj_collectible.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":800.0,"y":256.0,},
+        {"$GMRInstance":"v1","%Name":"inst_5C92C09C","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_5C92C09C","objectId":{"name":"Obj_skateboard","path":"objects/Obj_skateboard/Obj_skateboard.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":640.0,"y":352.0,},
+        {"$GMRInstance":"v1","%Name":"inst_5B9E3729","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_5B9E3729","objectId":{"name":"Obj_skateboard","path":"objects/Obj_skateboard/Obj_skateboard.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1248.0,"y":704.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRTileLayer":"","%Name":"Texture","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Texture","properties":[],"resourceType":"GMRTileLayer","resourceVersion":"2.0","tiles":{"SerialiseHeight":23,"SerialiseWidth":23,"TileCompressedData":[
           -4,-2147483648,1,9,-18,-2147483648,1,15,-6,-2147483648,1,0,-5,-2147483648,-2,0,-12,-2147483648,1,0,-13,
