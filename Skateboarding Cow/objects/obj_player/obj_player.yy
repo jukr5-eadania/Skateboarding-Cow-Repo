@@ -13,14 +13,7 @@
   "managed":true,
   "name":"Obj_Player",
   "overriddenProperties":[],
-  "parent":{
-    "name":"Characters",
-    "path":"folders/Objects/Characters.yy",
-  },
-  "parentObjectId":{
-    "name":"Obj_Character",
-    "path":"objects/Obj_Character/Obj_Character.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -38,10 +31,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"Test_Sprite_Player",
-    "path":"sprites/Test_Sprite_Player/Test_Sprite_Player.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }
