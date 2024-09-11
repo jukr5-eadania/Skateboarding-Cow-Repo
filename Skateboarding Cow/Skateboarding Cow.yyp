@@ -43,7 +43,6 @@
   "resources":[
     {"id":{"name":"Obj_Character","path":"objects/Obj_Character/Obj_Character.yy",},},
     {"id":{"name":"Obj_Enemy","path":"objects/Obj_Enemy/Obj_Enemy.yy",},},
-    {"id":{"name":"Obj_Player","path":"objects/Obj_Player/Obj_Player.yy",},},
     {"id":{"name":"MainLevel","path":"rooms/MainLevel/MainLevel.yy",},},
     {"id":{"name":"bumps","path":"sprites/bumps/bumps.yy",},},
     {"id":{"name":"bush_1","path":"sprites/bush_1/bush_1.yy",},},
