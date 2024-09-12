@@ -4,8 +4,8 @@
 /// @DnDArgument : "var" "enemy_spawn_x"
 /// @DnDArgument : "type" "1"
 /// @DnDArgument : "min" "10"
-/// @DnDArgument : "max" "1000"
-enemy_spawn_x = floor(random_range(10, 1000 + 1));
+/// @DnDArgument : "max" "5000"
+enemy_spawn_x = floor(random_range(10, 5000 + 1));
 
 /// @DnDAction : YoYo Games.Random.Get_Random_Number
 /// @DnDVersion : 1
@@ -13,8 +13,8 @@ enemy_spawn_x = floor(random_range(10, 1000 + 1));
 /// @DnDArgument : "var" "enemy_spawn_y"
 /// @DnDArgument : "type" "1"
 /// @DnDArgument : "min" "10"
-/// @DnDArgument : "max" "1000"
-enemy_spawn_y = floor(random_range(10, 1000 + 1));
+/// @DnDArgument : "max" "5000"
+enemy_spawn_y = floor(random_range(10, 5000 + 1));
 
 /// @DnDAction : YoYo Games.Instances.Create_Instance
 /// @DnDVersion : 1
