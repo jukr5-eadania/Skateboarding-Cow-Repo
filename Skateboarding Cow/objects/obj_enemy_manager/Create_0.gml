@@ -1,9 +1,9 @@
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 4921C240
-/// @DnDArgument : "expr" "5"
+/// @DnDArgument : "expr" "2"
 /// @DnDArgument : "var" "enemy_timer"
-enemy_timer = 5;
+enemy_timer = 2;
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1

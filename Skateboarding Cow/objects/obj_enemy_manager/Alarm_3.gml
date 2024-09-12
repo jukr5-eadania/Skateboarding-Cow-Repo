@@ -28,9 +28,9 @@ instance_create_layer(enemy_spawn_x, enemy_spawn_y, "Instances", Obj_Enemy);
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 348058FD
-/// @DnDArgument : "expr" "5"
+/// @DnDArgument : "expr" "2"
 /// @DnDArgument : "var" "enemy_timer"
-enemy_timer = 5;
+enemy_timer = 2;
 
 /// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1
