@@ -22,4 +22,12 @@ var l6BA81A62_0 = sprite_index;switch(l6BA81A62_0){	/// @DnDAction : YoYo Gam
 		/// @DnDParent : 62125CF2
 		/// @DnDArgument : "expr" "true"
 		/// @DnDArgument : "var" "grounded"
-		grounded = true;	break;}
+		grounded = true;
+	
+		/// @DnDAction : YoYo Games.Common.Variable
+		/// @DnDVersion : 1
+		/// @DnDHash : 23FE0AAE
+		/// @DnDParent : 62125CF2
+		/// @DnDArgument : "expr" "move_speed_player-5"
+		/// @DnDArgument : "var" "move_speed_player"
+		move_speed_player = move_speed_player-5;	break;}

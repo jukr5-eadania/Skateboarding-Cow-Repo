@@ -18,4 +18,12 @@ if(grounded == true){	/// @DnDAction : YoYo Games.Instances.Set_Sprite
 	/// @DnDParent : 0C00ABE5
 	/// @DnDArgument : "expr" "false"
 	/// @DnDArgument : "var" "grounded"
-	grounded = false;}
+	grounded = false;
+
+	/// @DnDAction : YoYo Games.Common.Variable
+	/// @DnDVersion : 1
+	/// @DnDHash : 75A425C0
+	/// @DnDParent : 0C00ABE5
+	/// @DnDArgument : "expr" "move_speed_player+5"
+	/// @DnDArgument : "var" "move_speed_player"
+	move_speed_player = move_speed_player+5;}
