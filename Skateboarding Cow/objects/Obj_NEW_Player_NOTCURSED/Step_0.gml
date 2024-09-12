@@ -6,6 +6,7 @@ event_inherited();
 /// @DnDAction : YoYo Games.Common.Temp_Variable
 /// @DnDVersion : 1
 /// @DnDHash : 33ECC2CA
+/// @DnDComment : WASD movement
 /// @DnDInput : 4
 /// @DnDArgument : "var" "right"
 /// @DnDArgument : "value" "keyboard_check(ord("D"))"
@@ -45,9 +46,37 @@ hspeed = xinput*move_speed_player;
 /// @DnDArgument : "type" "2"
 vspeed = yinput*move_speed_player;
 
+/// @DnDAction : YoYo Games.Common.If_Variable
+/// @DnDVersion : 1
+/// @DnDHash : 2B3B65EA
+/// @DnDComment : Character flip when walking left or right
+/// @DnDArgument : "var" "left"
+/// @DnDArgument : "op" "4"
+/// @DnDArgument : "value" "1"
+if(left >= 1){	/// @DnDAction : YoYo Games.Instances.Sprite_Scale
+	/// @DnDVersion : 1
+	/// @DnDHash : 2425F211
+	/// @DnDParent : 2B3B65EA
+	/// @DnDArgument : "xscale" "-1"
+	image_xscale = -1;image_yscale = 1;}
+
+/// @DnDAction : YoYo Games.Common.If_Variable
+/// @DnDVersion : 1
+/// @DnDHash : 61875BD7
+/// @DnDComment : Character flip when walking left or right
+/// @DnDArgument : "var" "right"
+/// @DnDArgument : "op" "4"
+/// @DnDArgument : "value" "1"
+if(right >= 1){	/// @DnDAction : YoYo Games.Instances.Sprite_Scale
+	/// @DnDVersion : 1
+	/// @DnDHash : 393455D1
+	/// @DnDParent : 61875BD7
+	image_xscale = 1;image_yscale = 1;}
+
 /// @DnDAction : YoYo Games.Collisions.If_Object_At
 /// @DnDVersion : 1.1
 /// @DnDHash : 57D802E5
+/// @DnDComment : Hit-detection
 /// @DnDArgument : "x" "Obj_NEW_Player_NOTCURSED.x"
 /// @DnDArgument : "y" "Obj_NEW_Player_NOTCURSED.y"
 /// @DnDArgument : "object" "Obj_Enemy"
