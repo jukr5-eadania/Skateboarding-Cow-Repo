@@ -10,4 +10,4 @@ vel_y = move_speed_player;
 /// @DnDHash : 5FA1D341
 /// @DnDArgument : "value" "Player_skate"
 /// @DnDArgument : "instvar" "10"
-sprite_index = Player_skate;
+sprite_index = Test_Sprite_Player;

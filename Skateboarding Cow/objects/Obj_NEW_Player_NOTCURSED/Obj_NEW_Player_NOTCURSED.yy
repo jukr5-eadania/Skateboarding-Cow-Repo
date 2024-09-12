@@ -41,8 +41,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Player_skate",
-    "path":"sprites/Player_skate/Player_skate.yy",
+    "name":"Test_Sprite_Player",
+    "path":"sprites/Test_Sprite_Player/Test_Sprite_Player.yy",
   },
   "spriteMaskId":null,
   "visible":true,

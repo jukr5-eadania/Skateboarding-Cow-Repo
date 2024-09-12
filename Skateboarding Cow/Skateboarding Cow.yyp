@@ -86,8 +86,6 @@
     {"id":{"name":"leaf_1","path":"sprites/leaf_1/leaf_1.yy",},},
     {"id":{"name":"leaf_2","path":"sprites/leaf_2/leaf_2.yy",},},
     {"id":{"name":"leaf_3","path":"sprites/leaf_3/leaf_3.yy",},},
-    {"id":{"name":"Player_kickflip","path":"sprites/Player_kickflip/Player_kickflip.yy",},},
-    {"id":{"name":"Player_skate","path":"sprites/Player_skate/Player_skate.yy",},},
     {"id":{"name":"ramp_1","path":"sprites/ramp_1/ramp_1.yy",},},
     {"id":{"name":"ramp_2","path":"sprites/ramp_2/ramp_2.yy",},},
     {"id":{"name":"Skatebord","path":"sprites/Skatebord/Skatebord.yy",},},

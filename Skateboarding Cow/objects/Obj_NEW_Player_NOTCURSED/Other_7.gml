@@ -11,9 +11,9 @@ var l6BA81A62_0 = sprite_index;switch(l6BA81A62_0){	/// @DnDAction : YoYo Gam
 		/// @DnDVersion : 1
 		/// @DnDHash : 3518CF5D
 		/// @DnDParent : 62125CF2
-		/// @DnDArgument : "spriteind" "Player_skate"
-		/// @DnDSaveInfo : "spriteind" "Player_skate"
-		sprite_index = Player_skate;
+		/// @DnDArgument : "spriteind" "Test_Sprite_Player"
+		/// @DnDSaveInfo : "spriteind" "Test_Sprite_Player"
+		sprite_index = Test_Sprite_Player;
 		image_index = 0;
 	
 		/// @DnDAction : YoYo Games.Common.Variable
