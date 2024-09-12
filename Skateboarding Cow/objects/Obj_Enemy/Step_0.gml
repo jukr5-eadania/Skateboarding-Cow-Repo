@@ -39,4 +39,5 @@ else{	/// @DnDAction : YoYo Games.Movement.Set_Speed
 	/// @DnDVersion : 1
 	/// @DnDHash : 77FECD60
 	/// @DnDParent : 3A9FC2B5
-	speed = 0;}
+	/// @DnDArgument : "speed" "1"
+	speed = 1;}
